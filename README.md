@@ -5,7 +5,6 @@
 - 📫 How to reach me:
     * [LinkedIn](https://www.linkedin.com/in/marcos-vinicius-cunha/)
     * [marcos.vcunha06@gmail.com](mailto:marcos.vcunha06@gmail.com)
-    * +55 (47) 98901-4694
 <!-- - ⚡ Fun fact: ... --->
 
 <!---
